@@ -1,0 +1,6 @@
+@TecNM.Practica2.WebApi_HostAddress = http://localhost:5012
+
+GET {{TecNM.Practica2.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
